@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Image\Archive-Container_35643.png" />
+    <None Remove="Image\DOCK.png" />
+    <None Remove="Image\OOCL_35490.png" />
+    <None Remove="Image\PDF.png" />
+    <None Remove="Image\Public_Pictures_24280.png" />
+    <None Remove="Image\X-Container_35622.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Image\Archive-Container_35643.png" />
+    <Resource Include="Image\DOCK.png" />
+    <Resource Include="Image\OOCL_35490.png" />
+    <Resource Include="Image\PDF.png" />
+    <Resource Include="Image\Public_Pictures_24280.png" />
+    <Resource Include="Image\X-Container_35622.png" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileSolder", "FileSolder.csproj", "{7668504E-08B3-4885-A37C-8ED74AE1B266}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7668504E-08B3-4885-A37C-8ED74AE1B266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7668504E-08B3-4885-A37C-8ED74AE1B266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7668504E-08B3-4885-A37C-8ED74AE1B266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7668504E-08B3-4885-A37C-8ED74AE1B266}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6884D3EC-2920-4164-A6E8-F9F9A91829C3}
+	EndGlobalSection
+EndGlobal
